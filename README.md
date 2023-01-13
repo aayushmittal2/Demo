@@ -4,13 +4,11 @@
 * [Start](#start)
 
 ## Intro
-This project is simple Lorem ipsum dolor generator.
-	
+The scope of this project...
+
 ## Installation
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Python 3.7
 
 ```
 $ pip install pytorch
@@ -18,9 +16,9 @@ $ pip install pytorch
 ```
 	
 ## start
-To run this project, install it locally using npm:
+To run this project, run he main file
 
 ```
-$ python run.py
+$ python main.py
 
 ```
