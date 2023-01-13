@@ -1,1 +1,1 @@
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=appveyor)
