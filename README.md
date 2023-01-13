@@ -1,1 +1,1 @@
-![Example screenshot](Graph database (1).png)
+![Example screenshot]('Graph database (1).png')
